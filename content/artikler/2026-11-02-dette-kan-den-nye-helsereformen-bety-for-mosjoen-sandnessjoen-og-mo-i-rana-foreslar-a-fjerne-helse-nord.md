@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "🏥 Dette kan den nye helsereformen bety for Mosjøen, Sandnessjøen og Mo
   i Rana: Foreslår å fjerne Helse Nord"
 summary: >-
