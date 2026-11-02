@@ -3,7 +3,7 @@ draft: true
 title: "🏥 Dette kan den nye helsereformen bety for Mosjøen, Sandnessjøen og Mo
   i Rana: Foreslår å fjerne Helse Nord"
 summary: >-
-  Mandag 2\. november 2026 overleverte Helsereformutvalget (Bovim-utvalget) sin
+  Mandag 2. november 2026 overleverte Helsereformutvalget (Bovim-utvalget) sin
   utredning NOU 2026:12 
 
   «Én helsetjeneste» til helse- og omsorgsminister Jan Christian Vestre.
