@@ -13,7 +13,6 @@ summary: >-
   er den saklige og faglige analysen av hva forslagene konkret vil bety for
   Vefsn, helseberedskapen og sykehusstrukturen i de tre byene Sandnessjøen,
   Mosjøen og Mo i Rana.
-image: /images/helsereform_bovim_utvalget_illustrasjon.png
 kicker: HELSE
 date: 2026-11-02
 ---
