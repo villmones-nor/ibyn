@@ -13,7 +13,7 @@ summary: >-
   er den saklige og faglige analysen av hva forslagene konkret vil bety for
   Vefsn, helseberedskapen og sykehusstrukturen i de tre byene Sandnessjøen,
   Mosjøen og Mo i Rana.
-image: /images/nord_norge_2040_vefsn_illustration.png
+image: /images/helsereform.png
 kicker: HELSE
 date: 2026-11-02
 ---
