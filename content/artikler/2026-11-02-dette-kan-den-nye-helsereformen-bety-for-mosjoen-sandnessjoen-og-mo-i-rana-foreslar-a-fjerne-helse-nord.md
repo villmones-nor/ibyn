@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "🏥 Dette kan den nye helsereformen bety for Mosjøen, Sandnessjøen og Mo
   i Rana: Foreslår å fjerne Helse Nord"
 summary: >-
@@ -13,6 +13,7 @@ summary: >-
   er den saklige og faglige analysen av hva forslagene konkret vil bety for
   Vefsn, helseberedskapen og sykehusstrukturen i de tre byene Sandnessjøen,
   Mosjøen og Mo i Rana.
+image: /images/helsereform_bovim_utvalget_illustrasjon.png
 kicker: HELSE
 date: 2026-11-02
 ---
@@ -33,13 +34,11 @@ Utvalget foreslår at det opprettes lovpålagte *strategiske helseutvalg* (en vi
 
 For det operative nivået foreslår Helsereformutvalget en kraftig konsolidering: Antall lokale helseforetak (HF) anbefales redusert fra dagens 20 til mellom **10 og 15 foretak nasjonalt**.
 
-For Nordland vil en slik reduksjon med stor sannsynlighet innebære at **Helgelandssykehuset HF slås sammen med Nordlandssykehuset HF (Bodø)** til ett felles gigantforetak for hele fylket:
+For Nordland vil en slik reduksjon med stor sannsynlighet innebære at **Helgelandssykehuset HF slås sammen med Nordlandssykehuset HF (Bodø)** til ett felles gigantforetak for hele fylket. Dette vil føre til følgende strukturelle endringer:
 
-| Dagens struktur                      | Utvalgets modell (Mulig utfall for Nordland)      | Måltall og strukturell konsekvens                                                                               |
-| ------------------------------------ | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Helgelandssykehuset HF**           | **Nordlandssykehuset HF / Nordland Helseforetak** | Et samlet foretak med over 6 000 ansatte og et opptaksområde fra Bindal i sør til Andøy i nord.                 |
-| **Selvstendig styre i Sandnessjøen** | **Felles styre og ledelse i Bodø/Sandnessjøen**   | Styringsenheten i Sandnessjøen mister sin selvstendige foretaksstatus og blir en underliggende klinikkstruktur. |
-| **Eget budsjett for Helgeland**      | **Felles fylkeskommunalt driftsbudsjett**         | Intern konkurranse om investeringsmidler mellom regionalt storsykehus i Bodø og lokalsykehusene på Helgeland.   |
+* 👥 **Fra lokalt foretak til fylkesdekkende gigant:** Helgelandssykehuset HF og Nordlandssykehuset HF vil i en slik modell slås sammen til ét samlet foretak («Nordland Helseforetak») med over 6 000 ansatte og et opptaksområde fra Bindal i sør til Andøy i nord.
+* 🏛️ **Endring i foretaksstyring og ledelse:** Den selvstendige foretaksledelsen og styringsenheten i Sandnessjøen vil falle bort. Dagens selvstendige styre erstattes av et felles fylkesdekkende styre og en samlet ledelse i Bodø og Sandnessjøen, der enhetene på Helgeland blir underliggende klinikkstrukturer.
+* 💰 **Felles fylkeskommunalt drifts- og investeringsbudsjett:** Eget øremerket drifts- og investeringsbudsjett for Helgeland avvikles til fordel for én felles ramme. Det betyr at lokalsykehusene på Helgeland må konkurrere internt om investeringsmidler mot det store regional- og sentralsykehuset i Bodø.
 
 En slik sammenslåing vil endre maktbalansen og ressursfordelingen. Erfaringer fra tidligere helsereformer viser at i store, sammenslåtte foretak tenderer de største spesialistmiljøene ved sentralsykehusene (som Bodø) til å tiltrekke seg en stor del av investeringsmidlene og fagpersonellet. For lokalsykehusmiljøene og de desentraliserte tilbudene på Helgeland vil kampen om midler til vedlikehold, medisinteknisk utstyr og bemanning måtte føres innenfor et vesentlig større fylkesdekkende foretak.
 
@@ -111,8 +110,6 @@ Dette berører strukturen på Helgeland direkte:
 Bovim-utvalgets rapport NOU 2026:12 tegner opp et nytt kart for norsk helsesektor. Målet om å fjerne det regionale helseforetaksnivået (Helse Nord), styrke den statlige byggfinansieringen og legge til rette for forpliktende nærhelsetjenester gir nye faglige rammer for sykehus- og helsedebatten.
 
 Samtidig viser analysen at forslagene om færre helseforetak, sentraliserte AMK-sentraler og økt press på kommunestørrelser vil kreve grundige avklaringer. Dersom helsereformen skal gi gode helsetjenester i Sandnessjøen, Mosjøen og Mo i Rana, må statlig finansiering og lovfestede kravene til akuttberedskap forankres i de faktiske geografiske og industrielle realitetene på Helgeland.
-
----
 
 ### 📸 Kilde til artikkelen
 * Helsereformutvalgets rapport NOU 2026:12
