@@ -110,7 +110,7 @@ Når debattanter fortsatt trekker frem 2019-rapporten som et argument for at «e
 
 **Nei.** En modell med ett sykehus i Mo i Rana forutsetter at hele Helgelands befolkning benytter dette sykehuset. Når empiriske data dokumenterer at 14 % av befolkningen (11 000 innbyggere) da flytter sine sykehusreiser til Namsos, og ISF-indeksen i Mo i Rana svikter, vil en samling på Mo i Rana gi et inntektstap som raserer helseforetakets økonomi. I tillegg slår NOU 2026:12, FFI-rapport 26/010 og Nasjonal sikkerhetsstrategi fast at en slik modell krasjer med statens nye retningslinjer for nærhelsetjenester, sivil-militær transportberedskap og lokal motstandskraft.
 
-#### Hva med et felles sykehus i aksen Korgen – Tovåsen – Holandsvika?
+#### Hva med et felles sykehus i aksen Korgen - Holandsvika - Tovåsen?
 
 Dersom man utelukkende vurderer alternativet om *ett felles sykehus* ut fra geografi og pasientstrømmer, viser saksdokumentene følgende:
 
