@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 🔍 Hvorfor Ressursgruppas 2019 rapport om sykehusstrukturen på Helgeland
   er utdatert og skrotet av helsereformen og totalberedskapen
 summary: En gjennomgang av kildegrunnlaget viser at de bærende forutsetningene
@@ -18,6 +18,7 @@ date: 2026-11-03
 * 📜 **Formelt skrotet av regjeringen (2020):** Departementet og foretaksmøtet forkastet ressursgruppens forslag om ett felles sykehus i Mo i Rana, og vedtok i stedet en **todel modell** med akuttsykehus i både Sandnessjøen og Mo i Rana.
 * 🚗 **Pasientlekkasje på 14 %:** Oslo Economics dokumenterte at 11 000 innbyggere i Sør-Helgeland heller reiser til Namsos sykehus i Trøndelag dersom Sandnessjøen legges ned.
 * 💸 **ISF-kalkylen sprakk:** Inntektskalkylen feilet med **13,0 millioner kroner** i inntektssvikt ved medisinsk avdeling i Mo i Rana per september 2026.
+* 🎭 **Mistenkt «salamitaktikk» avkreftes:** Frykten på Sør-Helgeland for en gradvis snik-nedbygging til fordel for Mo i Rana krasjer med virkeligheten – en slik enestående samling vil ruinere foretakets inntekter og tømme regionen for pasienter.
 * 🏥 **NOU 2026:12 skroter grunnlaget:** Helsereformutvalget foreslår å fjerne ISF på akuttmottak helt og satse på forpliktende nærhelsetjenester (som *Vefsna Helseklynge*).
 * 🛡️ **Totalberedskapen krever redundans:** FFI-rapport 26/010 og Nasjonal sikkerhetsstrategi advarer mot sentralisering og krever lokal reservekapasitet i industri- og logistikknav som Vefsn.
 
@@ -30,6 +31,21 @@ Rapporten fra Ekstern ressursgruppe (*Helgelandssykehuset 2025*, levert 19\. mar
 En kritisk ettergåelse av kildegrunnlaget – fra Helse Nord RHFs vedtak og Helgelandssykehusets ferskeste virksomhetsrapport per september 2026, til Helsereformutvalgets utredning (NOU 2026:12 *«Én helsetjeneste»*), FFI-rapport 26/010 og Nasjonal sikkerhetsstrategi – viser imidlertid at premissene ressursgruppen bygde sin anbefaling på, for lengst har kollapset.
 
 Nasjonale helsemyndigheter, sikkerhetsorganer og faglige utredninger har i dag beveget seg i en helt annen retning enn den bedriftsøkonomiske sentraliseringsmodellen ressursgruppen tegnet opp for sju år siden.
+
+---
+
+### 🎭 Mistanse om «salamitaktikk» vs. Den usminkede virkelighten
+
+I mange år har det hengt en dyp uro og mistillit over Sør-Helgeland og Indre Helgeland. Blant innbyggere, lokalpolitikere og helsepersonell i Vefsn, Grane, Hattfjelldal og kystkommunene har det vært en utbredt mistanke om at helseforetaket har ført en skjult agenda: En etappevis, sakte nedskjæring av tilbudene i Mosjøen og Sandnessjøen – en klassisk «salamitaktikk» – der skive for skive skjæres av tilbudene helt til sykehuset i Mo i Rana til slutt står igjen som det eneste gjenværende alternativet på Helgeland.
+
+Men ferske regnskapstall, pasientstrømmer og nasjonale utredninger viser at denne skjulte agendaen – dersom den noen gang har eksistert i enkelte strategers hoder – **må opphøre, fordi den i praksis er fullstendig umulig å gjennomføre:**
+
+1. **Pasientflukten vil ruinere foretaket:** Dersom Sandnessjøen og Sør-Helgeland tappes til fordel for Rana, viser Oslo Economics sine analyser at **11 000 innbyggere (14 % av helseforetakets samlede pasientgrunnlag)** i Sør-Helgeland umiddelbart reiser sørover til Sykehuset Namsos i Trøndelag. Helseforetaket taper da titalls millioner i statlige inntekter og uthuler sitt eget livsgrunnlag.
+2. **Økonomisk kollaps ved overføring:** Da indremedisinsk akuttmottak ble flyttet fra Mosjøen mot Rana, forutsatte kalkylene at ISF-inntektene i Rana skulle mangedobles. Virkeligheten per september 2026 viser et direkte inntektstap på **13,0 millioner kroner** i Mo i Rana fordi pasientene enten valgte Sandnessjøen, dro til Trøndelag eller fikk kortere liggetid.
+3. **Nasjonalt banesår fra Helsereformen:** Helsereformutvalget (NOU 2026:12) slår fast at tiden for å tømme lokalsykehus til fordel for regionale gigantenheter er over. Utvalget krever forpliktende nærhelsetjenester (som *Vefsna Helseklynge*) og avvikling av ISF på akuttmottak, noe som fjerner hele det bedriftsøkonomiske motivet for å sentralisere mot Rana.
+4. **Beredskapsmessig uforsvarlig:** Med FFI sin rapport (26/010) og Nasjonal sikkerhetsstrategi i hånd er det slått fast at E6 og Nordlandsbanen har kritiske tunnelfeller. Å basere hele Helgeland på én enhet i Mo i Rana utgjør en nasjonal sikkerhets- og beredskapsrisiko.
+
+Spekulasjonene om at «Rana til slutt blir alene igjen» kan derfor legges døde en gang for alle: En slik modell er en økonomisk, geografisk og beredskapsmessig umulighet.
 
 ---
 
@@ -128,8 +144,9 @@ Dokumentanalysen viser at 2019-rapporten fra Ekstern ressursgruppe bygde sine an
 * 🛑 **Strukturmodellen ble formelt endret** fra ett sykehus til to akuttsykehus av departementet og foretaksmøtet.
 * 🚗 **Pasientflukten ble dokumentert** til å utgjøre 11 000 innbyggere (14 %) til Namsos dersom Sandnessjøen legges ned.
 * 💸 **ISF-kalkylen feilet** med 13,0 millioner kroner i inntektssvikt i Mo i Rana per september 2026 – og **ISF på akuttmottak foreslås nå skrotet** i Helsereformutvalgets rapport NOU 2026:12.
+* 🎭 **Snik-sentraliseringen er avkreftet:** Frykten for at Sør-Helgeland porsjonsvis nedbygges til bare Rana står igjen er usannsynlig og uforsvarlig, da det raserer HSYKs inntekter og tømmer kysten for tilbud.
 * 🚑 **Transportkostnadene ble bevist** å utgjøre opptil 260 millioner kroner i merforbruk ved samling på Mo.
-* 🏥 **Helsereformutvalget (NOU 2026:12)** slår fast at nasjonal helsepolitikk skal bygge på to-sykehusstrukturer, nærhelsetjenester og statlig byggfinansiering – stikk i strid med 2019-rapportens føringer.
+* 🏥 **Helsereformutvalget (NOU 2026:12)** slår fast at nasjonal helsepolitikk skal bygge på forpliktende nærhelsetjenester, avvikling av ISF på akuttmottak og statlig byggfinansiering – stikk i strid med 2019-rapportens føringer.
 * 🛡️ **Nasjonal sikkerhetsstrategi og FFI-rapport 26/010** bekrefter at sentralisering som svekker beredskapen langs E6 og tømmer industrielle knutepunkter som Vefsn for akuttfunksjoner, utgjør en uforsvarlig samfunnsrisiko.
 
 Å henvise til 2019-rapporten i dagens debatt som et bevis på at «ett sykehus i Mo i Rana» er den eneste riktige løsningen, er derfor kildekritisk, helsepolitisk og beredskapsmessig uforsvarlig. Rapporten støtter seg på forutsetninger som for lengst er avkreftet av realitetene på Helgeland og skrotet av nasjonale myndigheter.
