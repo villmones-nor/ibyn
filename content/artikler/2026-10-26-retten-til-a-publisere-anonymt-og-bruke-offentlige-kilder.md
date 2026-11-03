@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Hvorfor iByn finnes – et lokalt testprosjekt med Vefsn-briller
 summary: "Etter spørsmål fra en lokalavis på Helgeland  om hvem som står bak, er
   det greit å rydde opp: Dette er et teknologisk testprosjekt som leser
