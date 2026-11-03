@@ -9,6 +9,7 @@ summary: En gjennomgang av kildegrunnlaget viser at de bærende forutsetningene
   (26/010) og Nasjonal sikkerhetsstrategi. Dagens styredokumenter,
   virksomhetsrapporten for 2026 og statens nye krav til totalberedskap og
   nærhelse tegner et helt annet bilde enn 2019-skrivebordsrapporten.
+image: /images/brutte_lofter_ambulansestasjon.png
 date: 2026-11-03
 ---
 ### 📌 FAKTABOKS: Hvorfor 2019-rapporten formelt og faglig er «død»
