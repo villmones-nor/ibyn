@@ -15,7 +15,7 @@ date: 2026-11-03
 ---
 ### 📌 FAKTABOKS: Hvorfor 2019-rapporten formelt og faglig er «død»
 
-* 📜 **Formelt skrotet av regjeringen (2020):** Departementet og foretaksmøtet forkastet ressursgruppens forslag om ett felles sykehus i Mo i Rana, og vedtok i stedet en **todel modell** med akuttsykehus i både Sandnessjøen og Mo i Rana.
+* 📜 **Formelt skrotet av regjeringen (2020):** Departementet og foretaksmøtet forkastet ressursgruppens forslag om ett felles sykehus i Mo i Rana, og vedtok i stedet en **todelt modell** med akuttsykehus i både Sandnessjøen og Mo i Rana.
 * 🚗 **Pasientlekkasje på 14 %:** Oslo Economics dokumenterte at 11 000 innbyggere i Sør-Helgeland heller reiser til Namsos sykehus i Trøndelag dersom Sandnessjøen legges ned.
 * 💸 **ISF-kalkylen sprakk:** Inntektskalkylen feilet med **13,0 millioner kroner** i inntektssvikt ved medisinsk avdeling i Mo i Rana per september 2026.
 * 🎭 **Mistenkt «salamitaktikk» avkreftes:** Frykten på Sør-Helgeland for en gradvis snik-nedbygging til fordel for Mo i Rana krasjer med virkeligheten – en slik enestående samling vil ruinere foretakets inntekter og tømme regionen for pasienter.
