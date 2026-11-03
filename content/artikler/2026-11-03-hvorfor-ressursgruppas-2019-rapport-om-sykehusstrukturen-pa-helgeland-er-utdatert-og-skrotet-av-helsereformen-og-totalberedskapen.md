@@ -10,6 +10,7 @@ summary: En gjennomgang av kildegrunnlaget viser at de bærende forutsetningene
   virksomhetsrapporten for 2026 og statens nye krav til totalberedskap og
   nærhelse tegner et helt annet bilde enn 2019-skrivebordsrapporten.
 image: /images/kildekritikk_2019_rapport.png
+kicker: HELSE
 date: 2026-11-03
 ---
 ### 📌 FAKTABOKS: Hvorfor 2019-rapporten formelt og faglig er «død»
