@@ -9,7 +9,7 @@ summary: En gjennomgang av kildegrunnlaget viser at de bærende forutsetningene
   (26/010) og Nasjonal sikkerhetsstrategi. Dagens styredokumenter,
   virksomhetsrapporten for 2026 og statens nye krav til totalberedskap og
   nærhelse tegner et helt annet bilde enn 2019-skrivebordsrapporten.
-image: /images/kildekritikk_2019_rapport.png
+image: /images/kildekritikk_2019_rapport_16_9.png
 kicker: HELSE
 date: 2026-11-03
 ---
