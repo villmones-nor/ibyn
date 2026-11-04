@@ -56,7 +56,7 @@ Når man sammenligner teksten fra 2019 med dagens styredokumenter, driftstall og
 #### 1\. 🛑 Strukturmodellen ble forkastet i vedtak (Ett sykehus vs. Todelt modell)
 
 * **2019-forutsetningen:** Ekstern ressursgruppe utredet og anbefalte utelukkende en modell der samtlige akutt- og døgnfunksjoner skulle samles i *ett enkelt felles akuttsykehus* for hele Helgeland, plassert i Mo i Rana.
-* **Reell beslutning:** Beslutningstakerne – Helse Nord RHF, foretaksmøtet og Helse- og omsorgsdepartementet – forkastet ressursgruppens forslag om ett felles sykehus. I stedet vedtok departementet og foretaksmøtet en **todel modell** med akuttsykehus i både Mo i Rana og Sandnessjøen. Hovedforutsetningen ressursgruppen beregnet ut fra, ble dermed formelt vraket i det endelige politiske vedtaket.
+* **Reell beslutning:** Beslutningstakerne – Helse Nord RHF, foretaksmøtet og Helse- og omsorgsdepartementet – forkastet ressursgruppens forslag om ett felles sykehus. I stedet vedtok departementet og foretaksmøtet en **todelt modell** med akuttsykehus i både Mo i Rana og Sandnessjøen. Hovedforutsetningen ressursgruppen beregnet ut fra, ble dermed formelt vraket i det endelige politiske vedtaket.
 
 #### 2\. 🚗 Pasientlekkasjen sprakk i møte med geografi og reisetider
 
