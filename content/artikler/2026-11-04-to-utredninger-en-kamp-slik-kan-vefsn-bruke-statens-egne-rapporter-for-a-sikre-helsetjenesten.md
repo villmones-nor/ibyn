@@ -10,14 +10,10 @@ summary: Når byråkratene i Helse Nord og helseforetaket har snakket om sykehus
   hånden. Vi har statens egne fagutvalg i ryggen når vi krever faste penger,
   trygg helseberedskap og full gjenreising av tilbudet i Mosjøen. Og nei – døren
   for at akuttsykehuset igjen kan gjenåpne i Mosjøen er på ingen måte stengt.
+image: /images/nou_vefsn_illustrasjon_16_9.png
 kicker: HELSE
 date: 2026-11-04
 ---
-
-
-
-
-
 ### 🏛️ Slutt på byråkratprat: Hvilken NOU sier hva, og hva betyr det for Vefsn?
 
 I den offentlige debatten har rapportene fra **Innovasjons- og samskapingsutvalget (NOU 2026:6 *«Den nye velferdskommunen»*)** og **Helsereformutvalget (NOU 2026:12 *«Én helsetjeneste»*)** ofte blitt behandlet som tørre, adskilte byråkratidokumenter. For å skape full klarhet over argumentasjonsrekken har vi spaltet ut eksakt hva hver av utredningene slår fast:
