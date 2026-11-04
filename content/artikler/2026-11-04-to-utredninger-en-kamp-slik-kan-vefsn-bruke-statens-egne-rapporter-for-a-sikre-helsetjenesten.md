@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "📰 TO UTREDNINGER, ÉN KAMP: Slik kan Vefsn bruke statens egne rapporter
   for å sikre helsetjenesten"
 summary: Når byråkratene i Helse Nord og helseforetaket har snakket om sykehus,
