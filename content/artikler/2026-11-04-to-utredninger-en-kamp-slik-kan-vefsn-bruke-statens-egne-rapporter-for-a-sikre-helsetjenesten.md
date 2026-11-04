@@ -68,7 +68,7 @@ Begge utredningene slår fast at tiden der helsevesenet bygges ved å tømme lok
 3. **Skjerpede sivil-militære beredskapskrav (Hjemmel: FFI 26/010 &amp; Totalberedskapsmeldingen):**  
 Med NATOs nye vertslandskrav og skjerpet fokus på sivil-militær helseberedskap i Nord-Norge, må staten ha reell akuttkapasitet langs hele E6-aksen. Mosjøen er det mest opplagte knutepunktet for statlige beredskapsinvesteringer.
 4. **Befolkningsvekst og industriekspansjon (Hjemmel: SSB &amp; NOU 2026:6, Kap. 5):**  
-SSB-tallene dokumenterer at Vefsn er sykehusbyen på Helgeland med størst befolkningsøkning de siste fire årene (+248 innbyggere fra 2022 til 2026, mens Rana har hatt en nedgang på 248 innbyggere i samme periode). Industriell vekst krever nærliggende akuttmedisinsk spisskompetanse.
+SSB-tallene dokumenterer at Vefsn er sykehusbyen på Helgeland med størst befolkningsøkning de siste fire årene (+248 innbyggere fra 2022 til 2026, mens Rana har hatt en nedgang i samme periode). Industriell vekst krever nærliggende akuttmedisinsk spisskompetanse.
 
 Ved å bygge opp *Vefsna Helseklynge* i dag, holdes sykehusbygget, fagfolkene og diagnoseredskapene (som CT-en) varme og operative. Dette gir innbyggerne trygghet her og nå – samtidig som lokalsamfunnet bevarer rammeverket som gjør at full akuttberedskap kan gjenåpnes så snart det politiske og beredskapsmessige flertallet krever det.
 
