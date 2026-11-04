@@ -45,7 +45,7 @@ Men ferske regnskapstall, pasientstrømmer og nasjonale utredninger viser at den
 3. **Nasjonalt banesår fra Helsereformen:** Helsereformutvalget (NOU 2026:12) slår fast at tiden for å tømme lokalsykehus til fordel for regionale gigantenheter er over. Utvalget krever forpliktende nærhelsetjenester (som *Vefsna Helseklynge*) og avvikling av ISF på akuttmottak, noe som fjerner hele det bedriftsøkonomiske motivet for å sentralisere mot Rana.
 4. **Beredskapsmessig uforsvarlig:** FFI sin rapport (26/010) og Nasjonal sikkerhetsstrategi dokumenterer at E6 og Nordlandsbanen har få og sårbare transportkorridorer uten omkjøringsveier (eksemplifisert ved Bjerka-raset i 2024). Sammen med Oslo Economics og Sweco sine kartlegginger av stengingsfrekvenser i Korgfjelltunnelen og Toventunnelen, viser dette at å basere hele Helgeland på én enhet utgjør en uforsvarlig beredskapsrisiko.
 
-Spekulasjonene om at «Rana til slutt blir alene igjen» kan derfor legges døde en gang for alle: En slik modell er en økonomisk, geografisk og beredskapsmessig umulighet.
+** Spekulasjonene om at «Rana til slutt blir alene igjen» kan derfor legges døde en gang for alle: En slik modell er en økonomisk, geografisk og beredskapsmessig umulighet. **
 
 ---
 
