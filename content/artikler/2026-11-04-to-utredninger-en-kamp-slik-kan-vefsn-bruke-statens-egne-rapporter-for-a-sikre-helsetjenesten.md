@@ -38,7 +38,7 @@ I den offentlige debatten har rapportene fra **Innovasjons- og samskapingsutvalg
 Folk i Vefsn vet at du ikke kan skille industri, vekst og helseberedskap. Mosjøen er Helgelands industrielle vekstmotor.
 
 * **Samfunnsutviklerrollen (Hjemmel: NOU 2026:6, Kap. 5):** Velferd og næringsliv må ses i sammenheng. Når Alcoa Mosjøen leverer 13 prosent av Europas primæraluminium og nye kraft- og hydrogensatsinger vokser fram, har kommunen en plikt til å sikre at lokalsamfunnet har trygg helseberedskap for å tiltrekke og beholde arbeidskraft.
-* **Sivil-militær beredskap og transportkorridorer (Hjemmel: FFI-rapport 26/010 &amp; Nasjonal sikkerhetsstrategi):** Både Forsvarets forskningsinstitutt og regjeringens sikkerhetsstrategi advarer sterkt mot å sentralisere bort beredskapsmarginene langs sårbare transportkorridorer. E6 og Nordlandsbanen over Helgeland er utsatte pulsårer. Når Korgfjelltunnelen eller Toventunnelen stenger – eller når raset ved Bjerka kutter både vei og bane samtidig – hjelper det lite med teoretiske skrivebordsmodeller i Rana.
+* **Sivil-militær beredskap og transportkorridorer (Hjemmel: FFI-rapport 26/010 &amp; Nasjonal sikkerhetsstrategi):** Både Forsvarets forskningsinstitutt og regjeringens sikkerhetsstrategi advarer sterkt mot å sentralisere bort beredskapsmarginene langs sårbare transportkorridorer. E6 og Nordlandsbanen over Helgeland er utsatte pulsårer. Når Korgfjelltunnelen eller Toventunnelen stenger – eller når raset ved Bjerka kutter både vei og bane samtidig – hjelper det lite med teoretiske skrivebordsmodeller.
 
 Mosjøen er knutepunktet der vei, bane, dypvannshavn og flyplass møtes. Å svekke den akuttmedisinske beredskapen her krasjer direkte med statens egne føringer for nasjonal sikkerhet.
 
