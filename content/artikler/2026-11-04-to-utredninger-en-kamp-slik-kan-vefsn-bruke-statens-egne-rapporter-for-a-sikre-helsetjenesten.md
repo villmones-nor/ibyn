@@ -59,7 +59,7 @@ Den utlovede ambulansestasjonen og oppgraderingen av samhandlingslokalene ved sy
 
 ### 🔮 Døren er vid åpen: Akuttsykehuset kan gjenreises i Mosjøen
 
-Ingen må tro at slagat om akuttsykehuset i Mosjøen er tapt for all framtid. Tvert imot sikrer dagens oppbygging at infrastrukturen og fagmiljøet holdes operative, slik at tilbudet kan oppskaleres når omstendighetene krever det:
+Ingen må tro at slaget om akuttsykehuset i Mosjøen er tapt for all framtid. Tvert imot sikrer dagens oppbygging at infrastrukturen og fagmiljøet holdes operative, slik at tilbudet kan oppskaleres når omstendighetene krever det:
 
 1. **Statlig overtakelse av sykehusbygg (Hjemmel: NOU 2026:12, Kap. 28):**  
 Når staten tar direkte finansieringsansvar for sykehusbygg over Statsbudsjettet, forsvinner helseforetakets økonomiske argument for å nedprioritere bygningsmassen i Mosjøen.
